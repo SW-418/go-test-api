@@ -1,2 +1,2 @@
 # go-test-api
-A test API created using Go
+A basic test API written in Go for learning.
